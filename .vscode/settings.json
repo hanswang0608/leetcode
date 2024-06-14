@@ -32,6 +32,23 @@
         "limits": "cpp",
         "new": "cpp",
         "ostream": "cpp",
-        "typeinfo": "cpp"
-    }
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "cctype": "cpp",
+        "clocale": "cpp",
+        "cstdarg": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "set": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp",
+        "numbers": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++-11"
 }
